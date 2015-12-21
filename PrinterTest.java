@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class PrinterTest {
 	
-	String setence = "Hello world!";
+	String setence = "Hello github!";
 	Printer p = new Printer(setence);
 
 	@Test
